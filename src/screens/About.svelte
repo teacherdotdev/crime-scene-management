@@ -42,7 +42,7 @@
     </p>
     <a
       class="primary-button email-button"
-      href="mailto:support@forensicsimulator.com?subject=evidenceroom%20feedback"
+      href="mailto:support@teacher.dev?subject=evidenceroom%20feedback"
     >
       EMAIL SUPPORT@FORENSICSIMULATOR.COM
     </a>

@@ -22,8 +22,8 @@
     </p>
     <p class="follow-up">
       Questions or concerns? Email
-      <a href="mailto:support@forensicsimulator.com?subject=evidenceroom%20privacy">
-        support@forensicsimulator.com
+      <a href="mailto:support@teacher.dev?subject=evidenceroom%20privacy">
+        support@teacher.dev
       </a>.
     </p>
   </section>
